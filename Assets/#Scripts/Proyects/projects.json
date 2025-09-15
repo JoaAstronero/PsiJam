@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "projectName": "Poción de Invisibilidad",
+      "projectType": "Personal",
+      "workstationType": "Alchemy",
+      "totalProgress": 100
+    },
+    {
+      "projectName": "Gólem Doméstico",
+      "projectType": "Personal",
+      "workstationType": "Golemancy",
+      "totalProgress": 150
+    },
+    {
+      "projectName": "Encargo: Pergamino de Fuego",
+      "projectType": "Freelance",
+      "workstationType": "Spells",
+      "totalProgress": 80
+    }
+  ]
+}
